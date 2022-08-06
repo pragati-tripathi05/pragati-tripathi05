@@ -4,8 +4,8 @@
 <!-- [![Pragati's GitHub stats](https://github-readme-stats.vercel.app/api?username=pragati-tripathi05)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <a href="https://github.com/pragati-tripathi05">
-  <img height="180em" width="370em" margin-right="20px" src="https://github-readme-stats.vercel.app/api?username=pragati-tripathi05&theme=buefy&show_icons=true" />
-  <img height="180em" width="370em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragati-tripathi05&theme=buefy&layout=compact" />
+  <img height="180em" width="390em" margin-right="20px" src="https://github-readme-stats.vercel.app/api?username=pragati-tripathi05&theme=buefy&show_icons=true" />
+  <img height="180em" width="390em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragati-tripathi05&theme=buefy&layout=compact" />
 </a>
 
 ### ✨<p> Visitors <img src="https://komarev.com/ghpvc/?username=pragati-tripathi05" alt="Pragati_Tripathi" /> </p>
