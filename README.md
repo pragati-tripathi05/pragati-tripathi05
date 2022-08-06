@@ -1,4 +1,4 @@
-### Hi there ![](https://github.com/pragati-tripathi05/pragati-tripathi05/blob/main/Hi.gif)
+### Hi there ![](https://github.com/pragati-tripathi05/pragati-tripathi05/blob/main/Hi.gif  width="250" height="250")
 
 
 
