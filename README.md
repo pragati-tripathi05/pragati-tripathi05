@@ -1,4 +1,5 @@
-# Hi <a href="url"><img src="https://github.com/pragati-tripathi05/pragati-tripathi05/blob/main/Hi.gif" height="48" width="48" ></a> I'm Pragati Tripathi <a href="url"><img src="https://github.com/pragati-tripathi05/pragati-tripathi05/blob/main/dabbing.gif" height="58" width="58" marginTop="20"></a>
+# Hi <a href="url"><img src="https://github.com/pragati-tripathi05/pragati-tripathi05/blob/main/Hi.gif" height="48" width="48" ></a> I'm Pragati Tripathi <a href="url"><img src="https://github.com/pragati-tripathi05/pragati-tripathi05/blob/main/dabbing.gif" height="58" width="58" marginTop="60"></a>
+### - I'm a Full Stack Web Developer skilled in MERN stack.
 
 
 
