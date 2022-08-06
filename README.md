@@ -1,5 +1,4 @@
-### Hi there ![](https://github.com/pragati-tripathi05/pragati-tripathi05/blob/main/Hi.gif  width="250" height="250")
-<a href="url"><img src="https://github.com/pragati-tripathi05/pragati-tripathi05/blob/main/Hi.gif" align="left" height="48" width="48" ></a>
+### Hi there <a href="url"><img src="https://github.com/pragati-tripathi05/pragati-tripathi05/blob/main/Hi.gif" align="left" height="48" width="48" ></a>
 
 
 
