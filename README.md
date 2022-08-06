@@ -1,7 +1,7 @@
 # <center> Hi <a href="url"><img src="https://github.com/pragati-tripathi05/pragati-tripathi05/blob/main/Hi.gif" height="48" width="48" ></a> I'm Pragati Tripathi <a href="url"><img src="https://github.com/pragati-tripathi05/pragati-tripathi05/blob/main/dabbing.gif" height="58" width="58" marginTop="60"></a> </center>
 ### - I'm a Full Stack Web Developer skilled in MERN stack.
 
-[![Pragati's GitHub stats](https://github-readme-stats.vercel.app/api?username=pragati-tripathi05)](https://github.com/anuraghazra/github-readme-stats)
+[![Pragati's GitHub stats](https://github-readme-stats.vercel.app/api?username=pragati-tripathi05)](https://github.com/pragati-tripathi05/github-readme-stats)
 
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pragati-tripathi05&theme=buefy&show_icons=true" />
