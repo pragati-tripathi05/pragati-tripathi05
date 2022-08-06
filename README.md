@@ -4,8 +4,8 @@
 <!-- [![Pragati's GitHub stats](https://github-readme-stats.vercel.app/api?username=pragati-tripathi05)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <a href="https://github.com/pragati-tripathi05">
-  <img height="180em" width="200em" src="https://github-readme-stats.vercel.app/api?username=pragati-tripathi05&theme=buefy&show_icons=true" />
-  <img height="180em" width="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragati-tripathi05&theme=buefy&layout=compact" />
+  <img height="180em" width="250em" src="https://github-readme-stats.vercel.app/api?username=pragati-tripathi05&theme=buefy&show_icons=true" />
+  <img height="180em" width="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragati-tripathi05&theme=buefy&layout=compact" />
 </a>
 
 ### ✨ Visitors 
