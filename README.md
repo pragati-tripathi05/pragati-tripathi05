@@ -4,12 +4,23 @@
 <!-- [![Pragati's GitHub stats](https://github-readme-stats.vercel.app/api?username=pragati-tripathi05)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <a href="https://github.com/pragati-tripathi05">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pragati-tripathi05&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragati-tripathi05&theme=buefy&layout=compact" />
+  <img height="180em" width="200em" src="https://github-readme-stats.vercel.app/api?username=pragati-tripathi05&theme=buefy&show_icons=true" />
+  <img height="180em" width="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragati-tripathi05&theme=buefy&layout=compact" />
 </a>
 
+### ✨ Visitors 
+
+<p> <img src="https://komarev.com/ghpvc/?username=pragati-tripathi05" alt="Pragati_Tripathi" /> </p>
 
 
+
+
+
+
+
+
+<!-- Tools gif -->
+<!-- https://github.com/kautukkundan/Awesome-Profile-README-templates/blob/master/short-and-sweet/SAchu47.md-->
 
 
 <!--
