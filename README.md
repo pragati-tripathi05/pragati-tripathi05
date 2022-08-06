@@ -28,7 +28,7 @@
 
 <!----------------------------------- Tech Stack Section ------------------------------------>
 
-<h2><i>Tech Stack</i></h2>
+<h2>Tech Stack</h2>
 
 <p>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
@@ -51,12 +51,12 @@
 
 <!----------------------------------- Project Section ------------------------------------>
 
-<h2><i>My top projects</i></h2>
+<h2>Projects</h2>
 
 
 <p align="left">
     <a href="https://github.com/pragati-tripathi05/Unit-2-Group-Project/tree/master/Koovs.com" target="blank">
-<!--         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Nike Clone&color=000000&logo=Nike&logoColor=FFFFFF&label=" alt="Koovs.com" /> -->
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Koovs Clone&color=000000&label=" alt="Koovs.com" />
     </a>
     <a href="https://github.com/pragati-tripathi05/Unit-3-Group-Project-yoox.com-/tree/master/%23Unit%203-%20Group%20Project%20(yoox.com)" target="blank">
 <!--         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Mini Store&color=1BB91F&logo=tmux&logoColor=FFFFFF&label=" alt="Yoox.com" /> -->
