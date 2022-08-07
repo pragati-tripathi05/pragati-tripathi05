@@ -102,19 +102,6 @@
 
 <!----------------------------------- Top Repository Section ------------------------------------>
 
-<h2>My Repositories</h2>
-<p>
-    <a href="https://github.com/pragati-tripathi05/Unit-2-Group-Project/tree/master/Koovs.com">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pragati-tripathi05&repo=Koovs-Clone&locale=en&border_radius=0&theme=dark" alt="pragati-tripathi05" />
-    </a>
-    <a href="https://github.com/pragati-tripathi05/Unit-3-Group-Project-yoox.com-/tree/master/%23Unit%203-%20Group%20Project%20(yoox.com)">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pragati-tripathi05&repo=Yoox-Clone&locale=en&border_radius=0&theme=dark" alt="pragati-tripathi05" />
-    </a>
-    <a href="https://github.com/pragati-tripathi05/cynical-frogs-1119/tree/main/getharvestproject">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pragati-tripathi05&repo=GetHarvest-Clone&locale=en&border_radius=0&theme=dark" alt="pragati-tripathi05" />
-    </a>
-    <a href="https://github.com/m-sehrawat/Translation-App">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pragati-tripathi05&repo=TicTacToe-Game&locale=en&border_radius=0&theme=dark" alt="pragati-tripathi05" />
-    </a> 
-</p>
+<!-- <h2>My Repositories</h2> -->
+
 
