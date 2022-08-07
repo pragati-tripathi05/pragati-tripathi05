@@ -1,5 +1,5 @@
 <!----------------------------------- Heading Section ------------------------------------>
-<h1 align="center">
+<h1 align="center" font-size="100px">
     Hi
     <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">
     I'm Pragati Tripathi
