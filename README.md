@@ -100,41 +100,21 @@
 
 
 
-<!-- 
+<!----------------------------------- Top Repository Section ------------------------------------>
 
-# <center> Hi <a href="url"><img src="https://github.com/pragati-tripathi05/pragati-tripathi05/blob/main/Hi.gif" height="48" width="48" ></a> I'm Pragati Tripathi <a href="url"><img src="https://github.com/pragati-tripathi05/pragati-tripathi05/blob/main/dabbing.gif" height="58" width="58" marginTop="60"></a> </center>
-### - I'm a Full Stack Web Developer skilled in MERN stack.
+<h2>My Repositories</h2>
+<p>
+    <a href="https://github.com/pragati-tripathi05/Unit-2-Group-Project/tree/master/Koovs.com">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pragati-tripathi05&repo=Koovs-Clone&locale=en&border_radius=0&theme=dark" alt="pragati-tripathi05" />
+    </a>
+    <a href="https://github.com/pragati-tripathi05/Unit-3-Group-Project-yoox.com-/tree/master/%23Unit%203-%20Group%20Project%20(yoox.com)">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pragati-tripathi05&repo=Yoox-Clone&locale=en&border_radius=0&theme=dark" alt="pragati-tripathi05" />
+    </a>
+    <a href="https://github.com/pragati-tripathi05/cynical-frogs-1119/tree/main/getharvestproject">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pragati-tripathi05&repo=GetHarvest-Clone&locale=en&border_radius=0&theme=dark" alt="pragati-tripathi05" />
+    </a>
+    <a href="https://github.com/m-sehrawat/Translation-App">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pragati-tripathi05&repo=TicTacToe-Game&locale=en&border_radius=0&theme=dark" alt="pragati-tripathi05" />
+    </a> 
+</p>
 
-<!-- [![Pragati's GitHub stats](https://github-readme-stats.vercel.app/api?username=pragati-tripathi05)](https://github.com/anuraghazra/github-readme-stats) -->
-
-<!-- <a href="https://github.com/pragati-tripathi05">
-  <img height="180em" width="410em" margin-right="20px" src="https://github-readme-stats.vercel.app/api?username=pragati-tripathi05&theme=buefy&show_icons=true" />
-  <img height="180em" width="410em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragati-tripathi05&theme=buefy&layout=compact" />
-</a>
-
-### ✨<p> Visitors <img src="https://komarev.com/ghpvc/?username=pragati-tripathi05" alt="Pragati_Tripathi" /> </p> -->
-
-
-
-
-
-
-
-<!-- Tools gif -->
-<!-- https://github.com/kautukkundan/Awesome-Profile-README-templates/blob/master/short-and-sweet/SAchu47.md-->
-
-
-<!--
-**pragati-tripathi05/pragati-tripathi05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
