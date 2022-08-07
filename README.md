@@ -16,7 +16,7 @@
 <br/>
 
 
-
+<img align="right" alt="Coding" width="400" src="https://github.com/pragati-tripathi05/pragati-tripathi05/blob/main/ezgif.com-gif-maker%20(1).gif">
 
 <!----------------------------------- Profile View Section ------------------------------------>
 <p align="left">
