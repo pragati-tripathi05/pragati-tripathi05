@@ -14,7 +14,9 @@
 <h3>
     I'm a Full Stack Web Developer skilled in MERN stack.
 </h3>
-<br>
+<br/>
+
+
 
 
 <!----------------------------------- Profile View Section ------------------------------------>
@@ -23,7 +25,8 @@
         <img src="https://komarev.com/ghpvc/?username=pragati-tripathi05" alt="Pragati_Tripathi" /> 
     </a>
 </p>
-<br>
+<br/>
+
 
 
 <!----------------------------------- Tech Stack Section ------------------------------------>
@@ -44,16 +47,13 @@
     <img src="https://img.shields.io/badge/Chakra%20UI-3bc7bd?style=for-the-badge&logo=chakraui&logoColor=white" alt="chakra-ui" />
     <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled-components" />
 </p>
-<br>
-
+<br/>
 
 
 
 <!----------------------------------- Project Section ------------------------------------>
 
 <h2>Projects</h2>
-
-
 <p align="left">
     <a href="https://github.com/pragati-tripathi05/Unit-2-Group-Project/tree/master/Koovs.com" target="blank">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Koovs.com Clone&color=3626ce&label=" alt="Koovs.com" />
@@ -64,6 +64,40 @@
     <a href="https://github.com/pragati-tripathi05/cynical-frogs-1119/tree/main/getharvestproject" target="blank">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=GetHarvest.com&color=f44d27&label=" alt="GetHarvest" />
     </a>
+</p>
+<br/>
+
+
+
+
+
+<!----------------------------------- Social Media Links Section ------------------------------------>
+
+<h2>Let's Connect</h2>
+<p align="left">
+    <a href="https://linkedin.com/in/pragati-tripathi05">
+        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://linkedin.com/in/pragati-tripathi05" />
+    </a>
+  
+    <a title="mailpragatihere@gmail.com" href="mailto:mailpragatihere@gmail.com">
+        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mailpragatihere@gmail.com" />
+    </a>
+</p>
+<br>
+
+
+
+
+<!----------------------------------- GitHub Stats Section ------------------------------------>
+
+<h2>GitHub Stats</h2>
+
+<p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=pragati-tripathi05&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="pragati-tripathi05" height="139" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragati-tripathi05&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="pragati-tripathi05" height="139" />
+</p>
+<br>
+
 
 
 
