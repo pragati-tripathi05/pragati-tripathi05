@@ -56,13 +56,13 @@
 
 <p align="left">
     <a href="https://github.com/pragati-tripathi05/Unit-2-Group-Project/tree/master/Koovs.com" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Koovs.com Clone&color=000000&label=" alt="Koovs.com" />
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Koovs.com Clone&color=3626ce&label=" alt="Koovs.com" />
     </a>
     <a href="https://github.com/pragati-tripathi05/Unit-3-Group-Project-yoox.com-/tree/master/%23Unit%203-%20Group%20Project%20(yoox.com)" target="blank">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Yoox.com&color=1BB91F&label=" alt="Yoox.com" />
     </a>
     <a href="https://github.com/pragati-tripathi05/cynical-frogs-1119/tree/main/getharvestproject" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Weather App&color=f44d27&label=" alt="GetHarvest" />
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=GetHarvest.com&color=f44d27&label=" alt="GetHarvest" />
     </a>
 
 
