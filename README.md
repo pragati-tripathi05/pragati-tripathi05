@@ -78,7 +78,7 @@
     <a href="https://linkedin.com/in/pragati-tripathi05">
         <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://linkedin.com/in/pragati-tripathi05" />
     </a>
-   <a title="mailpragatigere@gmail.com" href="mailto:mohitsehrawat000@gmail.com">
+   <a title="mailpragatigere@gmail.com" href="mailto:mailpragatihere@gmail.com">
         <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mailpragatihere@gmail.com" />
     </a>
 </p>
