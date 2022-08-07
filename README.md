@@ -13,7 +13,6 @@
 <h3>
     <li> I'm a Full Stack Web Developer skilled in MERN stack. </li>
 </h3>
-<br/>
 
 
 <img align="right" alt="Coding" width="400" src="https://github.com/pragati-tripathi05/pragati-tripathi05/blob/main/ezgif.com-gif-maker%20(1).gif">
@@ -24,8 +23,6 @@
         <img src="https://komarev.com/ghpvc/?username=pragati-tripathi05" alt="Pragati_Tripathi" /> 
     </a>
 </p>
-<br/>
-
 
 
 <!----------------------------------- Tech Stack Section ------------------------------------>
