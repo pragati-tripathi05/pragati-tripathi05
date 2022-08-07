@@ -11,7 +11,7 @@
 
 <!----------------------------------- About Section ------------------------------------>
 <h3>
-     - I'm a Full Stack Web Developer skilled in MERN stack.
+    <li> I'm a Full Stack Web Developer skilled in MERN stack. </li>
 </h3>
 <br/>
 
