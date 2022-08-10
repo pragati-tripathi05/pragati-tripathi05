@@ -44,6 +44,28 @@
     <img src="https://img.shields.io/badge/Chakra%20UI-27bdb1?style=for-the-badge&logo=chakraui&logoColor=white" alt="chakra-ui" />
     <img src="https://img.shields.io/badge/styled--components-e08582?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled-components" />
 </p>
+
+<!-- Or just icons -->
+<!-- <p align="left"> 
+    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="55"/> 
+    </a>
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="55"/>
+    </a>
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="55"/> 
+    </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="55"/> 
+    </a> 
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="55"/> 
+    </a>
+    <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="60" height="55"/> 
+    </a>
+</p> -->
 <br/>
 
 
@@ -89,10 +111,11 @@
 <h2>GitHub Stats</h2>
 
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=pragati-tripathi05&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="pragati-tripathi05" height="139" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragati-tripathi05&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="pragati-tripathi05" height="139" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=pragati-tripathi05&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="pragati-tripathi05" height="120" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragati-tripathi05&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="pragati-tripathi05" height="120" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pragati-tripathi05&theme=dark" alt="pragati-tripathi05" height="120" />
 </p>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pragati-tripathi05&theme=dark" alt="pragati-tripathi05" height="140" /></p>
+
 <br>
 
 
