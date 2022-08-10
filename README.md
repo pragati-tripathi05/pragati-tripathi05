@@ -111,11 +111,16 @@
 <h2>GitHub Stats</h2>
 
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=pragati-tripathi05&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="pragati-tripathi05" height="120" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragati-tripathi05&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="pragati-tripathi05" height="120" />
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pragati-tripathi05&theme=dark" alt="pragati-tripathi05" height="120" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=pragati-tripathi05&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="pragati-tripathi05" height="100" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragati-tripathi05&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="pragati-tripathi05" height="100" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pragati-tripathi05&theme=dark" alt="pragati-tripathi05" height="100" />
 </p>
-<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pragati-tripathi05" alt="pragati-tripathi05" /></a></p>
+<br/>
+<p align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=pragati-tripathi05&theme=dark" alt="pragati-tripathi05" />
+    </a>
+</p>
 <br>
 
 
