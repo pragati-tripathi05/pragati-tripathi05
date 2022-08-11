@@ -3,7 +3,7 @@
     Hi
     <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">
     I'm Pragati Tripathi
-  <img src="https://github.com/pragati-tripathi05/pragati-tripathi05/blob/main/dabbing.gif" height="60" width="60">
+  
 </h1>
 
 
