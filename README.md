@@ -11,7 +11,7 @@
 
 <!----------------------------------- About Section ------------------------------------>
 <h3>
-    <li> I'm a Full Stack Web Developer skilled in MERN stack. </li>
+    <li> I'm an aspiring Full Stack Web Developer currently skilling in MERN stack at Masai School. </li>
 </h3>
 
 
