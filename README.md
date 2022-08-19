@@ -11,8 +11,8 @@
 
 <!----------------------------------- About Section ------------------------------------>
 <h3>
-    👩‍💻 An aspiring Full Stack Web Developer currently skilling in MERN stack at Masai School.
-    🧐Observant and intuitive problem-solver, focussed on writing clean, elegant and efficient code.
+    👩‍💻 An aspiring Full Stack Web Developer currently skilling in MERN stack at Masai School. <br/>
+    🧐Observant and intuitive problem-solver, focussed on writing clean, elegant and efficient code.<br/>
     ✨Passionate about building user-centric products.
 </h3>
 
