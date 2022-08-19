@@ -100,6 +100,9 @@
    <a title="mailpragatigere@gmail.com" href="mailto:mailpragatihere@gmail.com">
         <img align="center" src="https://img.shields.io/badge/Gmail-cb3127?style=for-the-badge&logo=gmail&logoColor=white" alt="mailpragatihere@gmail.com" />
     </a>
+    <a href="https://pragati-portfolio.vercel.app/">
+        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://pragati-portfolio.vercel.app/" />
+    </a>
 </p>
 <br>
 
