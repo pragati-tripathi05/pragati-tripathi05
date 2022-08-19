@@ -16,7 +16,8 @@
     ✨Passionate about building user-centric products.
 </h3>
 
-
+<br/>
+<br/>
 <img align="right" alt="Coding" width="400" src="https://github.com/pragati-tripathi05/pragati-tripathi05/blob/main/ezgif.com-gif-maker%20(1).gif" width="65%">
 
 <br/>
