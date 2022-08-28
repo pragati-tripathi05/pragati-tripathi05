@@ -93,6 +93,9 @@
     <a href="https://github.com/pragati-tripathi05/cynical-frogs-1119/tree/main/getharvestproject" target="blank">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=GetHarvest.com&color=f44d27&label=" alt="GetHarvest" />
     </a>
+    <a href="https://github.com/MohitKawle/sedate-toys-1304" target="blank">
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=TripadvisorClone&color=34e0a1&label=" alt="Tripadvisor" />
+    </a>
 </p>
 <br/>
 
