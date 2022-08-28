@@ -113,6 +113,9 @@
    <a title="mailpragatigere@gmail.com" href="mailto:mailpragatihere@gmail.com">
         <img align="center" src="https://img.shields.io/badge/Gmail-cb3127?style=for-the-badge&logo=gmail&logoColor=white" alt="mailpragatihere@gmail.com" />
     </a>
+    <a title="mailpragatigere@gmail.com" href="https://medium.com/@mailpragatihere">
+        <img align="center" src="https://img.shields.io/badge/Medium-292929?style=for-the-badge&logo=medium&logoColor=white" alt="mailpragatihere@gmail.com" />
+    </a>
 </p>
 <br>
 
