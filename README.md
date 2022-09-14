@@ -117,7 +117,7 @@
     <a title="mailpragatigere@gmail.com" href="https://medium.com/@mailpragatihere">
         <img align="center" src="https://img.shields.io/badge/Medium-292929?style=for-the-badge&logo=medium&logoColor=white" alt="mailpragatihere@gmail.com" />
     </a>
-    <a href="https://https://pragati-portfolio-mu.vercel.app/">
+    <a href="https://pragati-portfolio-mu.vercel.app/">
         <img align="center" src="https://img.shields.io/badge/Portfolio-dd0c39?style=for-the-badge&logo=ionic&logoColor=white" alt="https://pragati-portfolio.vercel.app/" />
     </a>
 </p>
