@@ -151,7 +151,7 @@
 <!----------------------------------- GitHub Contribution Section ------------------------------------>
 
 <h2>GitHub Contributions</h2>
-<a href="https://github.com/pragati-tripathi05/github-readme-activity-graph"><img alt="Pragati Tripathi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=pragati-tripathi05&bg_color=0D1117&color=ffffff&line=5BCDEC&point=dc777a&hide_border=true" /></a>
+<a href=https://github.com/pragati-tripathi05"><img alt="Pragati Tripathi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=pragati-tripathi05&bg_color=0D1117&color=ffffff&line=5BCDEC&point=dc777a&hide_border=true" /></a>
 
 <!----------------------------------- Repository Section ------------------------------------>
 
