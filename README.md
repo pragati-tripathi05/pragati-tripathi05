@@ -89,13 +89,13 @@
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Koovs.com Clone&color=3626ce&label=" alt="Koovs.com" />
     </a>
     <a href="https://github.com/pragati-tripathi05/Unit-3-Group-Project-yoox.com-/tree/master/%23Unit%203-%20Group%20Project%20(yoox.com)" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Yoox.com&color=1BB91F&label=" alt="Yoox.com" />
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Yoox.com&color=c31068&label=" alt="Yoox.com" />
     </a>
     <a href="https://github.com/pragati-tripathi05/cynical-frogs-1119/tree/main/getharvestproject" target="blank">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=GetHarvest.com&color=f44d27&label=" alt="GetHarvest" />
     </a>
     <a href="https://github.com/MohitKawle/sedate-toys-1304" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Tripadvisor Clone&color=34e0a1&label=" alt="Tripadvisor" />
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Tripadvisor Clone&color=1ac787&label=" alt="Tripadvisor" />
     </a>
 </p>
 <br/>
@@ -118,7 +118,7 @@
         <img align="center" src="https://img.shields.io/badge/Medium-292929?style=for-the-badge&logo=medium&logoColor=white" alt="mailpragatihere@gmail.com" />
     </a>
      <a href="https://linktr.ee/pragati_tripathi">
-        <img align="center" src="https://img.shields.io/badge/LinkTree-43e660?style=for-the-badge&logo=linktree&logoColor=white" alt="https://linktr.ee/pragati_tripathi" />
+        <img align="center" src="https://img.shields.io/badge/LinkTree-2fc14a?style=for-the-badge&logo=linktree&logoColor=white" alt="https://linktr.ee/pragati_tripathi" />
     </a>
     <a href="https://pragati-t-portfolio.netlify.app/">
         <img align="center" src="https://img.shields.io/badge/Portfolio-2da3fd?style=for-the-badge&logo=ionic&logoColor=white" alt="https://pragati-portfolio.vercel.app/" />
