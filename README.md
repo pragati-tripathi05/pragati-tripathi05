@@ -118,7 +118,7 @@
         <img align="center" src="https://img.shields.io/badge/Medium-292929?style=for-the-badge&logo=medium&logoColor=white" alt="mailpragatihere@gmail.com" />
     </a>
      <a href="https://linktr.ee/pragati_tripathi">
-        <img align="center" src="https://img.shields.io/badge/LinkTree-43e660?style=for-the-badge&logo=ionic&logoColor=white" alt="https://linktr.ee/pragati_tripathi" />
+        <img align="center" src="https://img.shields.io/badge/LinkTree-43e660?style=for-the-badge&logo=linktree&logoColor=white" alt="https://linktr.ee/pragati_tripathi" />
     </a>
     <a href="https://pragati-t-portfolio.netlify.app/">
         <img align="center" src="https://img.shields.io/badge/Portfolio-2da3fd?style=for-the-badge&logo=ionic&logoColor=white" alt="https://pragati-portfolio.vercel.app/" />
