@@ -140,21 +140,20 @@
     <br/> <br/>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragati-tripathi05&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="pragati-tripathi05" height="150" />
 </p>
-<!--
+
 <br/>
 <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=pragati-tripathi05&theme=dark" alt="pragati-tripathi05" />
     </a>
 </p>
--->
 <br>
 
 
 <!----------------------------------- GitHub Contribution Section ------------------------------------>
-<!--
+
 <h2>GitHub Contributions</h2>
-<a href="https://github.com/pragati-tripathi05"><img alt="Pragati Tripathi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=pragati-tripathi05&bg_color=0D1117&color=ffffff&line=5BCDEC&point=dc777a&hide_border=true" /></a>-->
+<a href="https://github.com/pragati-tripathi05"><img alt="Pragati Tripathi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=pragati-tripathi05&bg_color=0D1117&color=ffffff&line=5BCDEC&point=dc777a&hide_border=true" /></a>
 
 <!----------------------------------- Repository Section ------------------------------------>
 
