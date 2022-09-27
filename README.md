@@ -144,7 +144,7 @@
 <br/>
 <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=pragati-tripathi05&theme=dark" alt="pragati-tripathi05" />
+        <img src="https://github-profile-trophy.vercel.app/?username=pragati-tripathi05&theme=chalk&margin-w=15" alt="pragati-tripathi05" />
     </a>
 </p>
 <br>
