@@ -120,7 +120,7 @@
      <a href="https://linktr.ee/pragati_tripathi">
         <img align="center" src="https://img.shields.io/badge/LinkTree-2fc14a?style=for-the-badge&logo=linktree&logoColor=white" alt="https://linktr.ee/pragati_tripathi" />
     </a>
-    <a href="https://pragati-t-portfolio.netlify.app/">
+    <a href="https://pragati-tripathi05.github.io/">
         <img align="center" src="https://img.shields.io/badge/Portfolio-2da3fd?style=for-the-badge&logo=ionic&logoColor=white" alt="https://pragati-portfolio.vercel.app/" />
     </a>
 </p>
