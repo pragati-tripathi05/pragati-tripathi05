@@ -97,6 +97,9 @@
     <a href="https://github.com/MohitKawle/sedate-toys-1304" target="blank">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Tripadvisor Clone&color=1ac787&label=" alt="Tripadvisor" />
     </a>
+    <a href="https://github.com/pragati-tripathi05/TrackingTime_Clone" target="blank">
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=TrackingTime Clone&color=ed565a&label=" alt="TrackingTime" />
+    </a>
 </p>
 <br/>
 
