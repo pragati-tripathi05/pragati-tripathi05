@@ -12,7 +12,7 @@
 <!----------------------------------- About Section ------------------------------------>
 <h3>
    <li>  👩‍💻   An aspiring Full Stack Web Developer currently skilling in MERN stack at Masai School </li> <br/>
-   <li> 🧐   Observant and intuitive problem-solver, focussed on writing clean, elegant and efficient code </li> <br/>
+   <li> 🕵🏻‍♀️   Observant and intuitive problem-solver, focussed on writing clean, elegant and efficient code </li> <br/>
    <li> ✨   Passionate about building user-centric products </li>
 </h3>
 
@@ -141,7 +141,7 @@
     <br/> <br/>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pragati-tripathi05&theme=dark&border=DDDDDD&stroke=DDDDDD&ring=F1E05A" alt="pragati-tripathi05" height="200" /> 
     <br/> <br/>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragati-tripathi05&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="pragati-tripathi05" height="150" />
+<!--     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragati-tripathi05&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="pragati-tripathi05" height="150" /> -->
 </p>
 
 <br/>
