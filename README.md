@@ -53,6 +53,7 @@
     <img src="https://img.shields.io/badge/Node.js-70a760?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />
     <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="expressjs"/>
     <img src="https://img.shields.io/badge/MongoDB-14aa53?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/>
+    <img src="https://img.shields.io/badge/MaterialUi-3e94eb?style=for-the-badge&logo=materialui&logoColor=white" alt="materialui"/>
     <img src="https://img.shields.io/badge/Thunderclient-904b99?style=for-the-badge&logo=thunderclient&logoColor=white" alt="ThunderClient"/>
 </p>
 
