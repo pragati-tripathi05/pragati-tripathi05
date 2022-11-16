@@ -34,6 +34,35 @@
 
 <br/>
 
+
+
+
+
+<!----------------------------------- Social Media Links Section ------------------------------------>
+
+<h2>Let's Connect</h2>
+<p align="left">
+    <a href="https://linkedin.com/in/pragati-tripathi05">
+        <img align="center" src="https://img.shields.io/badge/LinkedIn-317cab?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://linkedin.com/in/pragati-tripathi05" />
+    </a>
+   <a title="mailpragatigere@gmail.com" href="mailto:mailpragatihere@gmail.com">
+        <img align="center" src="https://img.shields.io/badge/Gmail-cb3127?style=for-the-badge&logo=gmail&logoColor=white" alt="mailpragatihere@gmail.com" />
+    </a>
+    <a title="mailpragatigere@gmail.com" href="https://medium.com/@mailpragatihere">
+        <img align="center" src="https://img.shields.io/badge/Medium-292929?style=for-the-badge&logo=medium&logoColor=white" alt="mailpragatihere@gmail.com" />
+    </a>
+     <a href="https://linktr.ee/pragati_tripathi">
+        <img align="center" src="https://img.shields.io/badge/LinkTree-2fc14a?style=for-the-badge&logo=linktree&logoColor=white" alt="https://linktr.ee/pragati_tripathi" />
+    </a>
+    <a href="https://pragati-tripathi05.github.io/">
+        <img align="center" src="https://img.shields.io/badge/Portfolio-2da3fd?style=for-the-badge&logo=ionic&logoColor=white" alt="https://pragati-portfolio.vercel.app/" />
+    </a>
+</p>
+<br>
+
+
+
+
 <!----------------------------------- Tech Stack Section ------------------------------------>
 
 <h2>Tech Stack</h2>
@@ -106,32 +135,6 @@
     </a>
 </p>
 <br/>
-
-
-
-
-
-<!----------------------------------- Social Media Links Section ------------------------------------>
-
-<h2>Let's Connect</h2>
-<p align="left">
-    <a href="https://linkedin.com/in/pragati-tripathi05">
-        <img align="center" src="https://img.shields.io/badge/LinkedIn-317cab?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://linkedin.com/in/pragati-tripathi05" />
-    </a>
-   <a title="mailpragatigere@gmail.com" href="mailto:mailpragatihere@gmail.com">
-        <img align="center" src="https://img.shields.io/badge/Gmail-cb3127?style=for-the-badge&logo=gmail&logoColor=white" alt="mailpragatihere@gmail.com" />
-    </a>
-    <a title="mailpragatigere@gmail.com" href="https://medium.com/@mailpragatihere">
-        <img align="center" src="https://img.shields.io/badge/Medium-292929?style=for-the-badge&logo=medium&logoColor=white" alt="mailpragatihere@gmail.com" />
-    </a>
-     <a href="https://linktr.ee/pragati_tripathi">
-        <img align="center" src="https://img.shields.io/badge/LinkTree-2fc14a?style=for-the-badge&logo=linktree&logoColor=white" alt="https://linktr.ee/pragati_tripathi" />
-    </a>
-    <a href="https://pragati-tripathi05.github.io/">
-        <img align="center" src="https://img.shields.io/badge/Portfolio-2da3fd?style=for-the-badge&logo=ionic&logoColor=white" alt="https://pragati-portfolio.vercel.app/" />
-    </a>
-</p>
-<br>
 
 
 
