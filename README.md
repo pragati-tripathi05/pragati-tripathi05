@@ -116,7 +116,7 @@
 <!----------------------------------- Project Section ------------------------------------>
 
 <h2>Projects</h2>
-<p align="left">
+<!-- <p align="left">
     <a href="https://github.com/pragati-tripathi05/Unit-2-Group-Project/tree/master/Koovs.com" target="blank">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Koovs.com Clone&color=3626ce&label=" alt="Koovs.com" />
     </a>
@@ -135,7 +135,64 @@
      <a href="https://github.com/pragati-tripathi05/psychotic-yam-1841" target="blank">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=CareAtHome&color=6e42e5&label=" alt="UrbanCompanyClone" />
     </a>
-</p>
+</p> -->
+
+<table align="center" border="2">
+   <thead>
+        <tr>
+            <th>#</th>
+            <th>Project Name</th>
+            <th>Techonology/Stack</th>
+            <th>Live Url / Github Link</th>
+        </tr>
+    </thead>
+      <tbody>
+       <tr>
+            <td>1.</td>
+            <td>Care At Home</td>
+            <td>NodeJs, Express, MongoDB, React, ChakraUI</td>
+            <td>
+                <a href="https://care-at-home-mauve.vercel.app/" target="_blank">https://care-at-home-mauve.vercel.app/</a> <br/>
+                <a href="https://github.com/pragati-tripathi05/Care-At-Home" target="_blank">https://github.com/pragati-tripathi05/Care-At-Home</a>
+           </td>
+        </tr>
+         <tr>
+            <td>2.</td>
+            <td>Tracking Time Clone</td>
+            <td>NodeJs, Express, MongoDB, React, ChakraUI, Tailwind</td>
+            <td>
+                <a href="https://tracking-time-cw.netlify.app/" target="_blank">https://tracking-time-cw.netlify.app/</a> <br/>
+                <a href="https://github.com/pragati-tripathi05/TrackingTime_Clone" target="_blank">https://github.com/pragati-tripathi05/TrackingTime_Clone</a>
+           </td>
+        </tr>
+<!--         <tr>
+            <td>3.</td>
+            <td>Youtube Clone</td>
+            <td>HTML,CSS & JS</td>
+            <td><a href="https://stoic-goldwasser-611d2c.netlify.app/" target="_blank">https://stoic-goldwasser-611d2c.netlify.app/</a></td>
+        </tr>
+           <tr>
+            <td>4.</td>
+            <td>Google Clone</td>
+            <td>HTML,CSS & JS</td>
+            <td><a href="https://effortless-tartufo-137969.netlify.app/"  target="_blank">https://effortless-tartufo-137969.netlify.app/</a></td>
+        </tr> 
+         <tr>
+            <td>5.</td>
+            <td>Masai School Clone</td>
+            <td>HTML,CSS & JS</td>
+            <td><a href="https://heuristic-galileo-2958c0.netlify.app"  target="_blank">https://heuristic-galileo-2958c0.netlify.app</a></td>
+        </tr>
+         <tr>
+            <td>6.</td>
+            <td>Pinterest Clone</td>
+            <td>HTML,CSS </td>
+            <td><a href="https://elastic-murdock-9dbfea.netlify.app/"  target="_blank">https://elastic-murdock-9dbfea.netlify.app/</a></td>
+        </tr> -->
+    </tbody>  
+
+</table>
+
 <br/>
 
 
