@@ -165,13 +165,16 @@
                 <a href="https://github.com/pragati-tripathi05/TrackingTime_Clone" target="_blank">https://github.com/pragati-tripathi05/TrackingTime_Clone</a>
            </td>
         </tr>
-<!--         <tr>
+        <tr>
             <td>3.</td>
-            <td>Youtube Clone</td>
-            <td>HTML,CSS & JS</td>
-            <td><a href="https://stoic-goldwasser-611d2c.netlify.app/" target="_blank">https://stoic-goldwasser-611d2c.netlify.app/</a></td>
+            <td>TripAdvisor Clone</td>
+            <td>NodeJs, Express, MongoDB, React, ChakraUI</td>
+            <td>
+                <a href="https://tripadvisor-mu.vercel.app/" target="_blank">https://tripadvisor-mu.vercel.app/</a> <br/>
+                <a href="https://github.com/pragati-tripathi05/tripadvisorClone" target="_blank">https://github.com/pragati-tripathi05/tripadvisorClone</a>
+           </td>
         </tr>
-           <tr>
+        <!--    <tr>
             <td>4.</td>
             <td>Google Clone</td>
             <td>HTML,CSS & JS</td>
