@@ -192,12 +192,15 @@
                 <a href="https://github.com/pragati-tripathi05/Yoox-Clone/tree/master/%23Unit%203-%20Group%20Project%20(yoox.com)" target="_blank">https://github.com/pragati-tripathi05/Yoox-Clone</a>
            </td>
         </tr>
-         <!--  <tr>
+         <tr>
             <td>6.</td>
-            <td>Pinterest Clone</td>
-            <td>HTML,CSS </td>
-            <td><a href="https://elastic-murdock-9dbfea.netlify.app/"  target="_blank">https://elastic-murdock-9dbfea.netlify.app/</a></td>
-        </tr> -->
+            <td>GetHarvest Clone</td>
+            <td>React, HTML, CSS, Javascript</td>
+            <td>
+                <a href="https://getharvest.vercel.app/" target="_blank">https://getharvest.vercel.app/</a> <br/>
+                <a href="https://github.com/pragati-tripathi05/GetHarvest-Clone/tree/main/getharvestproject" target="_blank">https://github.com/pragati-tripathi05/GetHarvest-Clone</a>
+           </td>
+        </tr>
     </tbody>  
 
 </table>
