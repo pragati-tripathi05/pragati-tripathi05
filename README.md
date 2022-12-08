@@ -183,13 +183,16 @@
                 <a href="https://github.com/pragati-tripathi05/Koovs-Clone" target="_blank">https://github.com/pragati-tripathi05/Koovs-Clone</a>
            </td>
         </tr> 
-        <!--   <tr>
+        <tr>
             <td>5.</td>
-            <td>Masai School Clone</td>
-            <td>HTML,CSS & JS</td>
-            <td><a href="https://heuristic-galileo-2958c0.netlify.app"  target="_blank">https://heuristic-galileo-2958c0.netlify.app</a></td>
+            <td>Yoox Clone</td>
+            <td>HTML,CSS, Javascript</td>
+            <td>
+                <a href="https://dapper-sable-604b5f.netlify.app/layouts/home-women" target="_blank">https://dapper-sable-604b5f.netlify.app/layouts/home-women</a> <br/>
+                <a href="https://github.com/pragati-tripathi05/Yoox-Clone/tree/master/%23Unit%203-%20Group%20Project%20(yoox.com)" target="_blank">https://github.com/pragati-tripathi05/Yoox-Clone</a>
+           </td>
         </tr>
-         <tr>
+         <!--  <tr>
             <td>6.</td>
             <td>Pinterest Clone</td>
             <td>HTML,CSS </td>
