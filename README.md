@@ -174,13 +174,16 @@
                 <a href="https://github.com/pragati-tripathi05/tripadvisorClone" target="_blank">https://github.com/pragati-tripathi05/tripadvisorClone</a>
            </td>
         </tr>
-        <!--    <tr>
+        <tr>
             <td>4.</td>
-            <td>Google Clone</td>
-            <td>HTML,CSS & JS</td>
-            <td><a href="https://effortless-tartufo-137969.netlify.app/"  target="_blank">https://effortless-tartufo-137969.netlify.app/</a></td>
+             <td>Koovs Clone</td>
+            <td>HTML, CSS, Javascript</td>
+            <td>
+                <a href="https://thunderous-lollipop-31c370.netlify.app/" target="_blank">https://thunderous-lollipop-31c370.netlify.app/</a> <br/>
+                <a href="https://github.com/pragati-tripathi05/Koovs-Clone" target="_blank">https://github.com/pragati-tripathi05/Koovs-Clone</a>
+           </td>
         </tr> 
-         <tr>
+        <!--   <tr>
             <td>5.</td>
             <td>Masai School Clone</td>
             <td>HTML,CSS & JS</td>
