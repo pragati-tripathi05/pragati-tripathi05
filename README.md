@@ -142,7 +142,7 @@
         <tr>
             <th>#</th>
             <th>Project Name</th>
-            <th>Techonology/Stack</th>
+            <th>Tech Stack</th>
             <th>Live Url / Github Link</th>
         </tr>
     </thead>
