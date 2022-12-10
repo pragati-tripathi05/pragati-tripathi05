@@ -235,6 +235,7 @@
 
 <!-- <h2>GitHub Contributions</h2>
 <a href="https://github.com/pragati-tripathi05"><img alt="Pragati Tripathi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=pragati-tripathi05&bg_color=0D1117&color=ffffff&line=5BCDEC&point=dc777a&hide_border=true" /></a> -->
+[![PragatiTripathi's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=pragati-tripathi05&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!----------------------------------- Repository Section ------------------------------------>
 
