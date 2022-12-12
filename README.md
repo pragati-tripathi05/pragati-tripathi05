@@ -201,6 +201,15 @@
                 <a href="https://github.com/pragati-tripathi05/GetHarvest-Clone/tree/main/getharvestproject" target="_blank">https://github.com/pragati-tripathi05/GetHarvest-Clone</a>
            </td>
         </tr>
+          <tr>
+            <td>7.</td>
+            <td>Your Florist</td>
+            <td>HTML, CSS</td>
+            <td>
+                <a href="https://your-florist.vercel.app/" target="_blank">https://your-florist.vercel.app/</a> <br/>
+                <a href="https://github.com/pragati-tripathi05/Your-Florist" target="_blank">https://github.com/pragati-tripathi05/Your-Florist</a>
+           </td>
+        </tr>
     </tbody>  
 
 </table>
