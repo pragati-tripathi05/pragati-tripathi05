@@ -228,6 +228,15 @@
                 <a href="https://github.com/pragati-tripathi05/SmallProjects/tree/master/ProductFilterSearch_JS" target="_blank">Github Repo</a>
            </td>
         </tr>
+          <tr>
+            <td>10.</td>
+            <td>Side Menu</td>
+            <td>HTML, CSS, Javascript</td>
+            <td>
+                <a href="https://html-css-side-menu.netlify.app/" target="_blank">https://html-css-side-menu.netlify.app/</a> <br/>
+                <a href="https://github.com/pragati-tripathi05/SmallProjects/tree/master/CurvedSideMenu" target="_blank">Github Repo</a>
+           </td>
+        </tr>
     </tbody>  
 
 </table>
