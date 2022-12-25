@@ -153,7 +153,7 @@
             <td>NodeJs, Express, MongoDB, React, ChakraUI</td>
             <td>
                 <a href="https://care-at-home-mauve.vercel.app/" target="_blank">https://care-at-home-mauve.vercel.app/</a> <br/>
-                <a href="https://github.com/pragati-tripathi05/Care-At-Home" target="_blank">https://github.com/pragati-tripathi05/Care-At-Home</a>
+                <a href="https://github.com/pragati-tripathi05/Care-At-Home" target="_blank">Github Repo</a>
            </td>
         </tr>
          <tr>
@@ -162,7 +162,7 @@
             <td>NodeJs, Express, MongoDB, React, ChakraUI, Tailwind</td>
             <td>
                 <a href="https://tracking-time-cw.netlify.app/" target="_blank">https://tracking-time-cw.netlify.app/</a> <br/>
-                <a href="https://github.com/pragati-tripathi05/TrackingTime_Clone" target="_blank">https://github.com/pragati-tripathi05/TrackingTime_Clone</a>
+                <a href="https://github.com/pragati-tripathi05/TrackingTime_Clone" target="_blank">Github Repo</a>
            </td>
         </tr>
         <tr>
@@ -171,7 +171,7 @@
             <td>NodeJs, Express, MongoDB, React, ChakraUI</td>
             <td>
                 <a href="https://tripadvisor-mu.vercel.app/" target="_blank">https://tripadvisor-mu.vercel.app/</a> <br/>
-                <a href="https://github.com/pragati-tripathi05/tripadvisorClone" target="_blank">https://github.com/pragati-tripathi05/tripadvisorClone</a>
+                <a href="https://github.com/pragati-tripathi05/tripadvisorClone" target="_blank">Github Repo</a>
            </td>
         </tr>
           <tr>
@@ -180,7 +180,7 @@
             <td>React, MongoDB, Express, NodeJS, HTML, CSS, Javascript</td>
             <td>
                 <a href="https://todo-mern-seven.vercel.app/" target="_blank">https://todo-mern-seven.vercel.app/</a> <br/>
-                <a href="https://github.com/pragati-tripathi05/To-Do-MERN-App" target="_blank">https://github.com/pragati-tripathi05/To-Do-MERN-App</a>
+                <a href="https://github.com/pragati-tripathi05/To-Do-MERN-App" target="_blank">Github Repo</a>
            </td>
         </tr>
         <tr>
@@ -189,7 +189,7 @@
             <td>HTML, CSS, Javascript</td>
             <td>
                 <a href="https://thunderous-lollipop-31c370.netlify.app/" target="_blank">https://thunderous-lollipop-31c370.netlify.app/</a> <br/>
-                <a href="https://github.com/pragati-tripathi05/Koovs-Clone" target="_blank">https://github.com/pragati-tripathi05/Koovs-Clone</a>
+                <a href="https://github.com/pragati-tripathi05/Koovs-Clone" target="_blank">Github Repo</a>
            </td>
         </tr> 
         <tr>
@@ -198,7 +198,7 @@
             <td>HTML,CSS, Javascript</td>
             <td>
                 <a href="https://dapper-sable-604b5f.netlify.app/layouts/home-women" target="_blank">https://dapper-sable-604b5f.netlify.app/layouts/home-women</a> <br/>
-                <a href="https://github.com/pragati-tripathi05/Yoox-Clone/tree/master/%23Unit%203-%20Group%20Project%20(yoox.com)" target="_blank">https://github.com/pragati-tripathi05/Yoox-Clone</a>
+                <a href="https://github.com/pragati-tripathi05/Yoox-Clone/tree/master/%23Unit%203-%20Group%20Project%20(yoox.com)" target="_blank">Github Repo</a>
            </td>
         </tr>
          <tr>
@@ -207,7 +207,7 @@
             <td>React, HTML, CSS, Javascript</td>
             <td>
                 <a href="https://getharvest.vercel.app/" target="_blank">https://getharvest.vercel.app/</a> <br/>
-                <a href="https://github.com/pragati-tripathi05/GetHarvest-Clone/tree/main/getharvestproject" target="_blank">https://github.com/pragati-tripathi05/GetHarvest-Clone</a>
+                <a href="https://github.com/pragati-tripathi05/GetHarvest-Clone/tree/main/getharvestproject" target="_blank">Github Repo</a>
            </td>
         </tr>
           <tr>
@@ -216,7 +216,16 @@
             <td>HTML, CSS</td>
             <td>
                 <a href="https://your-florist.vercel.app/" target="_blank">https://your-florist.vercel.app/</a> <br/>
-                <a href="https://github.com/pragati-tripathi05/Your-Florist" target="_blank">https://github.com/pragati-tripathi05/Your-Florist</a>
+                <a href="https://github.com/pragati-tripathi05/Your-Florist" target="_blank">Github Repo</a>
+           </td>
+        </tr>
+          <tr>
+            <td>9.</td>
+            <td>Search & Filter</td>
+            <td>HTML, CSS, Javascript</td>
+            <td>
+                <a href="https://filter-search-nine.vercel.app/" target="_blank">https://filter-search-nine.vercel.app/</a> <br/>
+                <a href="https://github.com/pragati-tripathi05/SmallProjects/tree/master/ProductFilterSearch_JS" target="_blank">Github Repo</a>
            </td>
         </tr>
     </tbody>  
