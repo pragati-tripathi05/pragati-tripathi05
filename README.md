@@ -1,7 +1,7 @@
 <!----------------------------------- Heading Section ------------------------------------>
 <h1 align="center">
-    Hi!
-    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">
+    Hi!🙋‍♀️
+<!--     <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> -->
     I'm Pragati Tripathi
   
 </h1>
@@ -20,7 +20,7 @@
 
 
 <!----------------------------------- gif ------------------------------------>
-<img align="right" alt="Coding" width="400" src="https://github.com/pragati-tripathi05/pragati-tripathi05/blob/main/ezgif.com-gif-maker%20(1).gif" width="65%">
+<!-- <img align="right" alt="Coding" width="400" src="https://github.com/pragati-tripathi05/pragati-tripathi05/blob/main/ezgif.com-gif-maker%20(1).gif" width="65%"> -->
 
 
 
@@ -51,8 +51,8 @@
     <a title="mailpragatigere@gmail.com" href="https://medium.com/@mailpragatihere">
         <img align="center" src="https://img.shields.io/badge/Medium-292929?style=for-the-badge&logo=medium&logoColor=white" alt="mailpragatihere@gmail.com" />
     </a>
-    <br/>
-    <br/>
+<!--     <br/>
+    <br/> -->
      <a href="https://linktr.ee/pragati_tripathi">
         <img align="center" src="https://img.shields.io/badge/LinkTree-2fc14a?style=for-the-badge&logo=linktree&logoColor=white" alt="https://linktr.ee/pragati_tripathi" />
     </a>
