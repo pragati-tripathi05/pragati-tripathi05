@@ -264,7 +264,8 @@
 </p>
 <br>
 <p align="center">
-     <img align="center" src="https://github-readme-stats.vercel.app/api?username=pragati-tripathi05&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="pragati-tripathi05" height="200" />
+<!--      <img align="center" src="https://github-readme-stats.vercel.app/api?username=pragati-tripathi05&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="pragati-tripathi05" height="200" /> -->
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=pragati-tripathi05&show_icons=true&locale=en&include_all_commits=true&count_private=true&theme=dark" alt="pragati-tripathi05" height="200" />
 </p>
 
 <!----------------------------------- GitHub Contribution Section ------------------------------------>
