@@ -251,7 +251,7 @@
 <h2>GitHub Stats</h2>
 
 <p align="center">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pragati-tripathi05&theme=dark&border=DDDDDD&stroke=DDDDDD&ring=F1E05A" alt="pragati-tripathi05" height="200" /> 
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pragati-tripathi05&theme=dark&border=DDDDDD&stroke=fe7f71&ring=c4e3ff" alt="pragati-tripathi05" height="200" /> 
     <br/> <br/>
 <!--     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragati-tripathi05&layout=compact&theme=dark" alt="pragati-tripathi05" height="150" /> -->
 </p>
