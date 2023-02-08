@@ -183,8 +183,17 @@
                 <a href="https://github.com/pragati-tripathi05/To-Do-MERN-App" target="_blank">Github Repo</a>
            </td>
         </tr>
-        <tr>
+          <tr>
             <td>5.</td>
+             <td>Your Snake Game</td>
+            <td>HTML, CSS, Javascript, Bootstrap</td>
+            <td>
+                <a href="https://your-snake-game.netlify.app/" target="_blank">https://your-snake-game.netlify.app/</a> <br/>
+                <a href="https://github.com/pragati-tripathi05/Snake-Game" target="_blank">Github Repo</a>
+           </td>
+        </tr>
+        <tr>
+            <td>6.</td>
              <td>Koovs Clone</td>
             <td>HTML, CSS, Javascript</td>
             <td>
@@ -193,7 +202,7 @@
            </td>
         </tr> 
         <tr>
-            <td>6.</td>
+            <td>7.</td>
             <td>Yoox Clone</td>
             <td>HTML,CSS, Javascript</td>
             <td>
@@ -202,7 +211,7 @@
            </td>
         </tr>
          <tr>
-            <td>7.</td>
+            <td>8.</td>
             <td>GetHarvest Clone</td>
             <td>React, HTML, CSS, Javascript</td>
             <td>
@@ -211,7 +220,7 @@
            </td>
         </tr>
           <tr>
-            <td>8.</td>
+            <td>9.</td>
             <td>Your Florist</td>
             <td>HTML, CSS</td>
             <td>
@@ -220,7 +229,7 @@
            </td>
         </tr>
           <tr>
-            <td>9.</td>
+            <td>10.</td>
             <td>Search & Filter</td>
             <td>HTML, CSS, Javascript</td>
             <td>
@@ -229,7 +238,7 @@
            </td>
         </tr>
           <tr>
-            <td>10.</td>
+            <td>11.</td>
             <td>Side Menu</td>
             <td>HTML, CSS, Javascript</td>
             <td>
