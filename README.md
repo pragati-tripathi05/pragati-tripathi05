@@ -246,6 +246,15 @@
                 <a href="https://github.com/pragati-tripathi05/SmallProjects/tree/master/CurvedSideMenu" target="_blank">Github Repo</a>
            </td>
         </tr>
+          <tr>
+            <td>12.</td>
+            <td>Weather App</td>
+            <td>React, HTML, CSS, Javascript</td>
+            <td>
+                <a href="https://your-weather-app-ruby.vercel.app/" target="_blank">https://your-weather-app-ruby.vercel.app/</a> <br/>
+                <a href="https://github.com/pragati-tripathi05/WeatherApp-React" target="_blank">Github Repo</a>
+           </td>
+        </tr>
     </tbody>  
 
 </table>
