@@ -1,8 +1,6 @@
 <!----------------------------------- Heading Section ------------------------------------>
 <h1 align="center">
-    Hi!🙋‍♀️
-<!--     <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> -->
-    I'm Pragati Tripathi
+    Hi!🙋‍♀I'm Pragati Tripathi
   
 </h1>
 
@@ -12,7 +10,7 @@
 <!----------------------------------- About Section ------------------------------------>
 <h3>
    <li>  👩‍💻   An aspiring Full Stack Web Developer currently skilling in MERN stack </li> <br/>
-   <li> 🕵🏻‍♀️   Observant and intuitive problem-solver, focussed on writing clean, elegant and efficient code </li> <br/>
+   <li> 🕵 Observant and intuitive problem-solver, focussed on writing clean, elegant and efficient code </li> <br/>
    <li> ✨   Passionate about building user-centric products </li>
 </h3>
 
