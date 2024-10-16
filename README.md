@@ -5,14 +5,14 @@
 </h1>
 
 
-
+<h3 align="center"> <i> Currently working as a Power BI Data Analyst </i> </h3>
 
 <!----------------------------------- About Section ------------------------------------>
-<h3>
-   <li>  👩‍💻   An aspiring Full Stack Web Developer currently skilling in MERN stack </li> <br/>
+<h5>
+   <li>  👩‍💻   Full Stack Web Developer skilled in MERN stack </li> <br/>
    <li> 🕵 Observant and intuitive problem-solver, focussed on writing clean, elegant and efficient code </li> <br/>
-   <li> ✨   Passionate about building user-centric products </li>
-</h3>
+   <li> ✨   Passionate about data analytics and building user-centric products </li>
+</h5>
 
 <br/>
 
